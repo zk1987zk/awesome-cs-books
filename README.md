@@ -18,6 +18,7 @@
 
   
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=imarvinle_awesome-cs-books) - Follow GitHub developers, see their activity feed, and discover trending repos in your stack.
 ## 推荐系统学习编程网站：包含各种方向学习路线、C++、Java、校招等内容
 
 [![CS Guide](https://cdn.how2cs.cn/csguide/173358.png "CS Guide")](https://csguide.cn)
